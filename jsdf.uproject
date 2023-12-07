@@ -14,6 +14,10 @@
 		{
 			"Name": "Soundscape",
 			"Enabled": true
+		},
+		{
+			"Name": "SERIALCOM",
+			"Enabled": true
 		}
 	]
 }
